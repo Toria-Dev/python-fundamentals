@@ -25,4 +25,4 @@ while attempts < max_attempts:
         if remaining > 0:
             print ("Wrong Credentials.", remaining, "attempts remaining.")
         else:
-            print("Too many failed attempts. Account Locked).")
+            print("Too many failed attempts. Account Locked.")
