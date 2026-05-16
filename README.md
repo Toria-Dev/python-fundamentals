@@ -54,6 +54,12 @@ Building the neighbourhood search safely — connecting people without exposing 
 - Git + GitHub
 - VS Code
 
+## Daily Routine
+- 45-60 minutes of focused coding every day
+- Push to GitHub after every session
+- Send progress updates to my mentor
+- Review sticky notes before each session
+
 ## Goal
 Externally ready as a Software Engineer by January 2027. Combining 5+ years of Project Management experience with engineering skills to build a unique profile.
 
